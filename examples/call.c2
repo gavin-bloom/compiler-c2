@@ -1,0 +1,16 @@
+
+long zero() { return 0; }
+
+long add(long x, long y) {
+  return x + y;
+}
+
+long main() {
+  long x;
+  long y;
+  long z;
+  x = 1;
+  y = 2;
+  z = add(zero(), add(x, y));
+  return z;
+}

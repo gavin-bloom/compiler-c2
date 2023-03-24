@@ -1,0 +1,21 @@
+long f( long a, long b, long c) {
+    long x;
+    long y;
+    long z;
+    long g;
+    long j;
+    long l;
+    long k;
+    long u;
+    long i;
+    long w;
+    long e;
+    long t;
+    long p;
+    x + b + c + y + z + g + j * l + k - u + i + w + e+t+p;
+    return a;
+}
+
+long main (){
+    return f(1, 2,3);
+}
