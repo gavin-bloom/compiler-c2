@@ -1,5 +1,5 @@
 # C2 Compiler
-Compiler for a small C-like language C2. Built with OCaml 4. 
+Compiler for a small C-like language C2. Built with OCaml 4.11.0. 
 Uses a makefile to compile the project. 
 The usage for the outputted file c2 is `c2 [-c] [-e] filename` where flags `c` and `e` are for compile and evaluate respectively.
 
